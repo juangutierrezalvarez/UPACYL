@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UPA</string>
+    <string name="action_settings">Settings</string>
+    <string name="upa">UPA</string>
+
+
+    <string-array name="menu_array">
+        <item>Noticias</item>
+        <item>Mensajes</item>
+        <item>Consultas</item>
+        <item>Sedes</item>
+    </string-array>
+
+
+
+</resources>
+
+

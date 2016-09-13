@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "214725326701",
+    "firebase_url": "https://upacyl.firebaseio.com",
+    "project_id": "upacyl",
+    "storage_bucket": "upacyl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214725326701:android:c64dd67f797f37e2",
+        "android_client_info": {
+          "package_name": "com.example.juangutierrezalvarez.upa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214725326701-83gpsqdkob5rdj7jh3ekj6f4603i539h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxEFmcbjglp6Xss1yTyDM8kkeg5eg8bzI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

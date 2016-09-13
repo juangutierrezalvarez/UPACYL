@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0ea300</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="ColorPrimary">#3E3E3E</color>
+    <color name="ColorPrimaryDark">#000</color>
+
+    <color name="holo_blue_dark">#ff0099cc</color>
+    <color name="view_divider_color">#BABABA</color>
+    <color name="view_divider_color_2">#DADADA</color>
+
+    <!--swipeRefreshLayout-->
+    <color name="red">#990000</color>
+    <color name="green">#009900</color>
+    <color name="blue">#000099</color>
+    <color name="orange">#FF9900</color>
+
+    <color name="statusbar">#000</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000</color>
+    <color name="bg_gradient_start">#31244e</color>
+    <color name="bg_gradient_end">#6b394c</color>
+
+    <!-- info window map fragemnt-->
+    <color name="bg_infoWindow">#C0C0C0</color>
+    <color name="bg_infoWindow_button">#3E3C3D</color>
+
+    <color name="layout_background">#B3000000</color>
+    <color name="green_upa">#F2007404</color>
+    <color name="orange_upa">#f78000</color>
+    <color name="orange_upa_transparent">#994ca300</color>
+
+
+    <color name="grey_drawer_button">#898989</color>
+    <color name="green_button_workshop_detail">#6DB141</color>
+
+
+    <!--background spinner-->
+    <color name="bg_white_transparent">#6cf8f7ff</color>
+    <color name="boton_asistente">#DCDDDD</color>
+
+
+    <!--viewpager talleres-->
+    <color name="primary">#DFDFDF</color>229329
+    <color name="tabsScrollColor">#fff</color>
+    <color name="NoSelectedtabsScrollColor">#DFDFDF</color>
+
+    <!-- colores del selector de hora -->
+    <color name="hour_light">#d6d6d6</color>
+    <color name="hour_dark">#dd222222</color>
+
+    <color name="button_background">#fff</color>
+
+    <color name="button_infowindow">#3E3C3D</color>
+    <color name="button_infowindow_clicked">#fff</color>
+
+</resources>
